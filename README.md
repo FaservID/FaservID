@@ -1,4 +1,4 @@
-<h3>Hi There 👋, I’m Inggih Rembang</h3>
+<h1><center>Hi There 👋, I’m Inggih Rembang</center></h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faservID)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - 👀 I’m interested in ...

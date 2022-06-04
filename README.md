@@ -14,4 +14,9 @@
 FaservID/FaservID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->

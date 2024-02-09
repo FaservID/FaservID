@@ -1,6 +1,5 @@
 <h1><center>Hi There, I’m Inggih Rembang 👋</center></h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faservID&show_icons=true&theme=radical)]
 

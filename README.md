@@ -1,7 +1,13 @@
 <h1><center>Hi There, I’m Inggih Rembang 👋</center></h1>
 
-👀 I’m interested in Web Developer
-🌱 I’m currently learning Javascript, React Js
+<ul>
+  <li>
+    👀 I’m interested in Web Developer 
+  </li>
+  <li>
+    🌱 I’m currently learning Javascript, React Js
+  </li>
+</ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faservID&show_icons=true&theme=radical)
 
